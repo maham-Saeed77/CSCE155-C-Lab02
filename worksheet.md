@@ -11,12 +11,16 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
+Hello, Dennis.  You are 22 years, 36 weeks, and 3 days old today
+
 
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
+
+Hello, bjarne.  You are 22 years, 18 weeks, and 6 days old today
 
 
 
@@ -27,6 +31,8 @@ referred to as *fuzzing*).  Try breaking the `birthday_cli`
 program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
+
+Hello, birthday.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
